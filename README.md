@@ -9,8 +9,7 @@ Dieses Repository dient als praktische Einführung in die verschiedenen Aspekte 
 - `exercise_supervised_learning.ipynb`: Ein interaktives Notebook, dass durch die Entwicklung und Anpassung des KNN-Klassifikationsmodells führt.  
 - `example_unsupervised_learning.ipynb`: Dieses Notebook demonstriert die Segmentierung von Satellitenaufnahmen mit Unsupervised Learning-Methoden, insbesondere dem K-Means-Clustering.  
 - `exercise_unsupervised_learning.ipynb`: Ein interaktives Notebook, das die Möglichkeit bietet, eigene Bilddateien mit Unsupervised Learning zu segmentieren. Perfekt, um die Theorie in die Praxis umzusetzen und mit den Parametern des Modells zu experimentieren.  
-
-Weitere Notebooks zu Themen wie Deep Learning sind in Planung und werden zu einem späteren Zeitpunkt hinzugefügt.
+- `example_deep_learning.ipynb`: Dieses Notebook demonstriert die Klassifizierung von Bildern mit Deep Learning-Methoden.  
 
 ## Starten
 
@@ -31,9 +30,11 @@ Um direkt in einem interaktiven Umfeld zu experimentieren, kann das Repository i
 Übungsskript Supervised Learning
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/HandsOn_KI/main?labpath=exercise_supervised_learning.ipynb)
 
-Übungsskript Unsuoervised Learning
+Übungsskript Unsupervised Learning
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/HandsOn_KI/main?labpath=exercise_unsupervised_learning.ipynb)
 
+Beispielskript Deep Learning
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/HandsOn_KI/main?labpath=example_deep_learning.ipynb)
 
 ## Zielgruppe
 
